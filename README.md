@@ -1,2 +1,2 @@
 # golang-simple-apps
- This repository contains a collection of programs developed as part of my journey in learning GoLang.
+ This repository is a collection of project ideas that I have mostly gathered from https://github.com/florinpop17/app-ideas. The repository serves as a reference point for various app ideas and challenges that I can work on to enhance my programming skills.
